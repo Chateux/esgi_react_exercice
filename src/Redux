@@ -1,0 +1,14 @@
+Redux
+
+Endroit stocker toute les données accessible partout dans l'application
+Tous les composant pourrons acceder aux données et ça gere l'état des composant plus simple
+
+
+MapStateToProps
+
+Etat du magasin
+
+Récuperer l'état du store et on va utiliser le post du reducer
+
+Mettre à jour le magasin on passe par un dispatchToProps
+Type + Payload
